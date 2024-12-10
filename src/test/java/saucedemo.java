@@ -1,4 +1,4 @@
 package PACKAGE_NAME;
 
-public class Tests1 {
+public class saucedemo {
 }
